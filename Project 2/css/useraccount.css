@@ -1,0 +1,43 @@
+@charset "utf-8";
+body  {
+ 
+ background-image: url("../images/searchbackground.png");
+  
+}
+.user {
+  width: 250px; 
+  height: 250px;
+}
+
+.background
+{
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 70%;
+  border-radius: 8px;
+}
+
+.italic 
+{
+  font-style: italic;
+  color: purple;
+}
+
+.details 
+{
+  margin-left: 20px;
+  overflow: visible;
+  font-size: 20px;
+}
+
+.editbtn
+{
+  background-color: #3a79d8;
+  color: white;
+  font-size: 16px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 6px;
+}
+
+

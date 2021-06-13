@@ -1,0 +1,34 @@
+
+body  {
+ 
+ background-image: url("../images/searchbackground.png");
+}
+
+.background
+{
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 70%;
+  border-radius: 8px;
+}
+	
+.join {
+  margin-left: 80px;
+  color: black;
+  font-size: 30px;
+  font: 30px Arial, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+.locationmap{
+	display: inline-block;
+	vertical-align:middle;
+}
+.details 
+{
+  width: 900px;
+  height: 250px;
+  overflow: right;
+  font-size: 20px;
+}

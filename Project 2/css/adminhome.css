@@ -1,0 +1,18 @@
+.btn
+{
+    background-color: #3a79d8;
+    color: white;
+    font-size: 20px;
+    padding: 14px 20px;
+    margin: auto;
+    border: none;
+    border-radius: 6px;
+    width: 15%;
+}
+
+body 
+{
+    background-image: url(../images/searchbackground.png);
+    background-repeat: repeat-y;
+    background-size: auto;
+}

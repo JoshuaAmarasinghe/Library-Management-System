@@ -1,0 +1,80 @@
+body 
+{
+    background-image: url(../images/searchbackground.png);
+    background-repeat: repeat-y;
+}
+
+input
+{
+    margin-left: 20px;
+    margin-right: 13px;
+    width: 97%;
+    padding: 6px;
+    box-sizing: border-box;
+}
+
+input[type=submit]
+{
+    width: 8%;
+    background-color: #4CAF50;
+    color: white;
+    margin-bottom: 13px;
+    border: none;
+    border-radius: 6px;
+}
+
+input[type=radio]
+{
+    width: 2%;
+    padding: 6px;
+}
+
+textarea
+{
+    width: 30%;
+    margin-left: 20px;
+}
+
+form
+{
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: auto;
+    border-radius: 8px;
+}
+
+label
+{
+    margin-left: 13px;
+}
+
+select
+{
+    margin-left: 20px;
+}
+
+.p
+{
+    margin-left: 13px;
+}
+
+.message 
+{
+    margin-left: 20px;
+    display: none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+}
+
+.message p 
+{
+    padding: 1px;
+    font-size: 12px;
+}
+
+input[type=checkbox]
+{
+    width: 2%;
+    padding: 6px;
+}
